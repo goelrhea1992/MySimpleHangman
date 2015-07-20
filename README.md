@@ -8,3 +8,7 @@ This code essentially will help any novice Python programmer to get some idea of
 Disclaimer: There is no OOPs used here. So, it really is for beginners looking to get a hold of the language.
 
 Learn away!
+
+Running Instructions:
+
+  python MyHangman.py
