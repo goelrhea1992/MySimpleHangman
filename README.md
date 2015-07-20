@@ -10,5 +10,6 @@ Disclaimer: There is no OOPs used here. So, it really is for beginners looking t
 Learn away!
 
 Running Instructions:
+----------------------
 
   python MyHangman.py
